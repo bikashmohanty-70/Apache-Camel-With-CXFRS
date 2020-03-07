@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1583565145280
+Build-Jdk: 1.8.0_242
+Built-By: bridgelabz
+Bundle-ManifestVersion: 2
+Bundle-Name: apache-camel-jaxrs
+Bundle-SymbolicName: com.javainuse.apache-camel-jaxrs
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.javainuse.beans;version="0.0.1.SNAPSHOT";uses:="java
+ x.ws.rs"
+Import-Package: javax.ws.rs;version="[2.0,3)"
+Tool: Bnd-2.1.0.20130426-122213
